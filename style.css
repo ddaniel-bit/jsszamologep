@@ -1,0 +1,13 @@
+p {
+    margin: 0px;
+}
+legend {
+    font-weight: bold;
+}
+fieldset {
+    background-color:rgb(254, 249, 220);
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 20px rgb(183, 134, 13);
+}
